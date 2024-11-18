@@ -13,3 +13,6 @@ Here's my contact information
 ###  Tools I Use
 
 [![My Skills](https://skillicons.dev/icons?i=html,go,css)](https://skillicons.dev)
+
+### My efforts
+[![Chiara-Lee's GitHub | Stats](https://stats.quira.sh/Chiara-Lee/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=Chiara-Lee)
