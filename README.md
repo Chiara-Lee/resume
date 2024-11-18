@@ -16,3 +16,11 @@ Here's my contact information
 
 ### My efforts
 [![Chiara-Lee's GitHub | Stats](https://stats.quira.sh/Chiara-Lee/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=Chiara-Lee)
+
+### Tools used in this document 
+
+>Thanks to the generous gifts of creators and platforms
+
+[Simple Icon](https://simpleicons.org/)
+[Skill Icons](https://skillicons.dev/)
+[Quira](https://quira.sh/)
